@@ -1,0 +1,44 @@
+
+#body{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+}
+.tshine{
+    color: coral;
+}
+.rem{
+    font-size: 2rem;
+}
+#ann{
+    font-weight: 900;
+}
+#family{
+    font-family: 'Caveat', cursive;
+}
+.J{
+    text-align: right;
+}
+#pixel{
+    font-size: 20px;
+}
+
+#point{
+    font-size: 20pt;
+}
+
+#em{
+    font-size: 1em;
+}
+
+#rem {
+    font-size: 1rem;
+}
+
+footer{
+    font-size: 12pt;
+}
+  
+html{
+    font-size: xx-large;
+}
